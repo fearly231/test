@@ -1,0 +1,10 @@
+.clause{
+    text-align: center;
+    font-size: 11px;
+    font-style: italic;
+    position: absolute;
+    bottom: 10px;
+    padding: 5px;
+    left:0;
+    width: 690px;
+}

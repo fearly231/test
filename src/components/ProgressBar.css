@@ -1,0 +1,22 @@
+.progress-bar-wrapper{
+    position: relative;
+    width: 100%;
+    height: 30px;
+}
+
+.progress-bar-wrapper img {
+    width: 200px;
+    position: absolute;
+    right: 0;
+    top:5px;
+}
+
+.progress-bar-wrapper .progress-bar-description {
+    font-size: 13px;
+    color: rgb(242,242,242);
+    text-align: right;
+    position: absolute;
+    right: 0;
+    top: 20px;
+    font-style: italic;
+}

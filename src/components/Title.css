@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap&subset=latin-ext');
+
+.title{
+    font-family: 'Bebas Neue';
+    font-weight: normal;
+    font-style: normal;
+    margin-top: 70px;
+    margin-bottom: 60px;
+    line-height: 0.8;
+}
+
+.name{
+    font-size: 90px;
+    color: rgb(98,155,184);
+
+}
+.subtitle{
+    font-size: 45px;
+    color: rgb(64,64,64);
+
+}
+

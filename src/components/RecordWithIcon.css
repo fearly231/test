@@ -1,0 +1,17 @@
+.record-pi{
+    width:calc(100% - 15px);
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 15px;
+}
+
+.icon{
+    width: 40px;
+}
+
+.record-data{
+    color: rgb(242,242,242);
+    text-align: center;
+    width: 285px;
+    padding-top: 7px;
+}

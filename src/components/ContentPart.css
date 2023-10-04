@@ -1,0 +1,70 @@
+.article-title{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+
+.article-name {
+    font-weight: bold;
+    font-size: 21px;
+    display: inline-block;
+}
+
+.line{
+    align-self: center;
+    height:0.5px;
+    padding: 0.5px 55%;
+    background-color: rgb(38,38,38);
+    display: inline-block;
+}
+
+.position{
+    display: flex;
+    flex-direction: row;
+    margin: 0 0 0 30px;
+}
+
+.position .informations .point{
+    position: absolute;
+    border-radius: 70%;
+    padding: 4px;
+    transform: translate(-26px, 7px);
+    border: 2px rgb(65,113,156) solid;
+    background-color: rgb(91,155,213); 
+    z-index: 10;
+}
+
+.date{
+    width:15%;
+    padding: 10px;
+
+    font-size: 15px;
+}
+
+.informations{
+    width: 515px;
+    padding:10px;
+    padding-left: 20px;
+    border-left: 0.5px solid black;
+    float: right;
+}
+
+.informations .info-title{
+    font-size: 19px;
+}
+
+.informations .info-title .important {
+    font-weight: bold;
+}
+
+.informations .info-subtitle{
+    font-style: italic;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.informations .description{
+    font-size: 15px;
+    padding: 5px 20px;
+}

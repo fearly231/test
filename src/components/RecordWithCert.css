@@ -1,0 +1,21 @@
+.record-pi{
+    width:calc(100% - 15px);
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0 10px 15px;
+    align-items: center;
+}
+
+.order{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    margin-right: 15px;
+}
+
+.record-cert{
+    color: rgb(242,242,242);
+    text-align: left;
+    width: 285px;
+    padding-right: 5px;
+}

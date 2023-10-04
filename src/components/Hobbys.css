@@ -1,0 +1,8 @@
+.informations-right{
+    width: 485px;
+    padding:10px;
+    padding-left: 20px;
+    float: right;
+    text-align: center;
+    transform: translateY(-20px);
+}

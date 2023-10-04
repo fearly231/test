@@ -1,0 +1,21 @@
+:root{
+    --page-width: 1000px;
+    --page-height: 1414px‬;
+}
+
+.page{
+    position: relative;
+    /*top: 10vh;*/
+    /* margin-top: 10vh;  */
+    left: calc(50% - (var(--page-width)/2));
+    width: var(--page-width);
+    max-height: var(--page-height);
+    min-height: 1414px;
+    /*padding: calc(var(--page-width)/2), calc(var(--page-height)/2);*/
+    height: 100%;
+    -webkit-box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.55);
+    -moz-box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.55);
+    box-shadow: 10px 10px 23px 0px rgba(0,0,0,0.55);
+
+
+}

@@ -1,0 +1,12 @@
+.record{
+    width:calc(100% - 30px);
+    display: flex;
+    flex-direction: column;
+    margin: 15px 15px 10px 15px;
+}
+
+.left-align-record{
+    color: rgb(242,242,242);
+    text-align: left;
+    width: 270px;
+}
